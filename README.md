@@ -45,3 +45,17 @@ Here are some potential improvements you could add to the project:
 - **Task Prioritization:** Add levels of priority for each task.
 - **Due Dates:** Allow users to set a due date for tasks.
 - **Categories:** Organize tasks by category (work, personal, etc.).
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/leshokefa/RockPaperScissorsByLesho/issues).
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Enjoy playing! If you like this project, please give it a ⭐ on GitHub!
+
+---
