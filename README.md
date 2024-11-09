@@ -56,6 +56,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Enjoy playing! If you like this project, please give it a ⭐ on GitHub!
+Enjoy! If you like this project, please give it a ⭐ on GitHub!
 
 ---
