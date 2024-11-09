@@ -1,7 +1,7 @@
 # 📝 To-Do List App
 
 A simple, command-line-based To-Do List application that helps you manage tasks effectively. <br>
-This beginner-friendly project is built with Python and features task management options such as adding tasks, viewing the task list, marking tasks as complete, and deleting tasks. <br>
+This project is built with Python and features task management options such as adding tasks, viewing the task list, marking tasks as complete, and deleting tasks. <br>
  Tasks are saved in a JSON file, so your to-do list persists even when you close and reopen the app. <br>
 
 ## 🚀 Features
